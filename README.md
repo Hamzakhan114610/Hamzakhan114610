@@ -35,6 +35,6 @@
 
 ### 📫 Connect with Me
 
-* 🌐 Portfolio: [Your Website Link]
-* 💼 LinkedIn: [Your Profile Link]
-* ✉️ Email: [Your Email]
+* 🌐 Portfolio: [kodexsolution.netlify.app]
+* 💼 LinkedIn: [https://www.linkedin.com/in/m-hamza-khan-88877b3a0/]
+* ✉️ Email: [kodexsolution67@gmail.com]
