@@ -8,7 +8,7 @@
 
 * **Languages:** JavaScript (ES6+), HTML5, CSS3
 * **Frontend:** React.js, Vite, Tailwind CSS, Bootstrap
-* **Backend & Database:** Node.js, Express.js, Firebase (Auth & Firestore), Airtable
+* **Backend & Database:** Node.js, Express.js, Firebase (Auth & Firestore), Airtable , MongoDB
 * **Tools & Deployment:** Git, GitHub, Netlify, VS Code, ffmpeg
 
 ---
